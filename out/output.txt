@@ -1,0 +1,151 @@
+Flight# K792 Number of seats available: 22
+Total seats sold: 4
+Total revenue on this flight: $520
+
+Passenger Name                                     Seat#      Price     
+MeenaReddy                                         17         $130      
+RohanReddy                                         25         $130      
+AmitReddy                                          26         $130      
+SunitaReddy                                        12         $130      
+
+Flight# B349 Number of seats available: 50
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# B438 Number of seats available: 52
+Total seats sold: 2
+Total revenue on this flight: $400
+
+Passenger Name                                     Seat#      Price     
+AnitaPatel                                         21         $200      
+HarishMehta                                        30         $200      
+
+Flight# B435 Number of seats available: 84
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# B347 Number of seats available: 49
+Total seats sold: 1
+Total revenue on this flight: $140
+
+Passenger Name                                     Seat#      Price     
+Gautham                                            22         $140      
+
+Flight# B348 Number of seats available: 50
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# A124 Number of seats available: 48
+Total seats sold: 6
+Total revenue on this flight: $860
+
+Passenger Name                                     Seat#      Price     
+DeepakMenon                                        20         $110      
+RajeshVerma                                        54         $150      
+AnilSharma                                         15         $150      
+ManojDesai                                         52         $130      
+SeemaKaur                                          21         $160      
+Roshini                                            3          $160      
+
+Flight# J745 Number of seats available: 350
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# B345 Number of seats available: 47
+Total seats sold: 3
+Total revenue on this flight: $480
+
+Passenger Name                                     Seat#      Price     
+VikramIyer                                         13         $160      
+ArjunIyer                                          6          $160      
+NehaIyer                                           4          $160      
+
+Flight# C303 Number of seats available: 38
+Total seats sold: 2
+Total revenue on this flight: $100
+
+Passenger Name                                     Seat#      Price     
+JAVAMAM                                            29         $50       
+MaryMam                                            7          $50       
+
+Flight# A675 Number of seats available: 56
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# B346 Number of seats available: 50
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# K128 Number of seats available: 94
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# A243 Number of seats available: 64
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# B795 Number of seats available: 46
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# B352 Number of seats available: 50
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# A792 Number of seats available: 55
+Total seats sold: 1
+Total revenue on this flight: $120
+
+Passenger Name                                     Seat#      Price     
+AmitReddy                                          51         $120      
+
+Flight# G945 Number of seats available: 43
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# B350 Number of seats available: 50
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# B351 Number of seats available: 50
+Total seats sold: 0
+Total revenue on this flight: $0
+
+Passenger Name                                     Seat#      Price     
+
+Flight# T241 Number of seats available: 72
+Total seats sold: 2
+Total revenue on this flight: $200
+
+Passenger Name                                     Seat#      Price     
+Koushal                                            46         $100      
+SachinDesai                                        67         $100      
+
+
+System's summary
+Total seats sold: 21
+Total revenue: $2820
