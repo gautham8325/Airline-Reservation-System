@@ -8,7 +8,7 @@
 
     ```bash
     cd src/
-    ```
+    ```plaintext
 
 2. Compile the Java files:
 
@@ -33,7 +33,8 @@
 5. In the **Run Configurations** window:
     - Go to the **Arguments** tab.
     - In the **Program Arguments** field, enter the following paths:
-      ```
+
+      ```bash
       ./in/inputfile1.txt ./in/inputfile2.txt ./out/output.txt
       ```
 
